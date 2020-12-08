@@ -13,7 +13,7 @@ KeyboardRow {
    CharacterKey { caption: "ձ"; captionShifted: "Ձ"; symView: "1"; symView2: "…" }
    CharacterKey { caption: "յ"; captionShifted: "Յ"; symView: "1"; symView2: "…" }
    CharacterKey { caption: "՛"; captionShifted: "'"; symView: "1"; symView2: "…" }
-   CharacterKey { caption: ","; captionShifted: "՞"; symView: "1"; symView2: "…" }
+   CharacterKey { caption: "՞"; captionShifted: ","; symView: "1"; symView2: "…" }
    CharacterKey { caption: "֊"; captionShifted: "—"; symView: "1"; symView2: "…" }
    CharacterKey { caption: "և"; captionShifted: "."; symView: "1"; symView2: "…" }
    CharacterKey { caption: "«"; captionShifted: "("; symView: "1"; symView2: "…" }
